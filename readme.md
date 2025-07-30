@@ -7,7 +7,7 @@ An interactive Streamlit-based web application that enables users to:
 - Understand predictions using SHAP explainability
 - Chat with a locally-hosted AI assistant named **KASH** (Knowledge Assistant for Self-Health) powered by **Ollama + Mistral LLM**
 
----
+
 
 ## 🚀 Features
 
@@ -33,7 +33,7 @@ An interactive Streamlit-based web application that enables users to:
 ### 4. 🗃️ **Explainability**
 - SHAP summary plots provide transparent decision-making insights
 
----
+
 
 ## 💻 Technologies Used
 
@@ -52,28 +52,27 @@ An interactive Streamlit-based web application that enables users to:
 ## 🧰 Setup Instructions
 
 1. **Clone the repository**:
-   ```bash
+
    git clone https://github.com/your-username/breast-cancer-kash.git
    cd breast-cancer-kash
-````
+
 
 2. **Install dependencies**:
 
-   ```bash
+   
    pip install -r requirements.txt
-   ```
+  
 
 3. **Run Ollama with Mistral**:
 
-   ```bash
    ollama run mistral
-   ```
+  
 
 4. **Launch the app**:
 
-   ```bash
+
    streamlit run app.py
-   ```
+  
 
 ---
 

@@ -115,7 +115,7 @@ An interactive Streamlit-based web application that enables users to:
 
 ## 🧠 Credits
 
-Developed by: \[Your Name]
+Developed by: Ananyaa Sharrma
 LLM Integration via: [Ollama](https://ollama.com)
 Dataset: [Wisconsin Breast Cancer](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
